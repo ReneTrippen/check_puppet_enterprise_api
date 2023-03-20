@@ -3,7 +3,11 @@ This script checks the status of the Puppet Enterprise API endpoints specified b
 
 ## Requirements
  * Ruby 2.0 or higher
- * net/http and json Ruby gems
+ * Ruby Gems
+   * net/http 
+   * json
+   * uri
+   * optparse
 
 ## Usage
 Run the script using the following command:
